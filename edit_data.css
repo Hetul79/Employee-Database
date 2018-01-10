@@ -1,0 +1,49 @@
+body{
+   background:#f0f0f0 /*url("france-hub_3502656a-xlarge.jpg") no-repeat top center*/ ;
+   
+   background-size: 1200px 1000px;
+}
+div.head{
+   background-color:#fff;
+
+}
+form {
+   
+    height:200px;
+    margin: 0 auto;
+}
+h3 {
+	color:	 #f8a;
+}
+h1 {
+	color:	 #aaf;
+	
+}
+form{
+	color:#000;
+	font-size:1.5em;
+	font-weight:900;
+}
+input[type=text] {
+    box-sizing: border-box;
+    border: none;
+    color: black;
+    height:50px;
+    width:50%;
+    font-size:30px;
+}
+#error{
+   color:	 #f8a;
+}
+input[type=submit],#button {
+    background-color: #ffb3d9;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
