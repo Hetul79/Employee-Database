@@ -9,3 +9,4 @@ An option to display the database entries is also provided. The display page als
 to edit the employee's details.
 
 ![employee information 2](https://user-images.githubusercontent.com/34621063/34779419-22942652-f646-11e7-910b-f58b38480cd0.png)
+![capture](https://user-images.githubusercontent.com/34621063/42720757-295bd99e-874b-11e8-9523-95ed01472f6b.PNG)
